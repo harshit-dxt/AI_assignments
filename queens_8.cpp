@@ -1,5 +1,9 @@
 #include<bits/stdc++.h>
 using namespace std;
+/* initial state all places zero
+final state configuration of queens such
+that not two are attacking each other.
+*/
 typedef pair<int, vector<vector<int>>> pvi;
 int check_column(vector<vector<int>> v){
   int maximum = -1;
