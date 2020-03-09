@@ -1,0 +1,19 @@
+Fitness : 91
+Group 1
+Student 0 : 95
+Student 3 : 72
+Student 4 : 78
+Student 9 : 82
+Student 10 : 94
+Student 13 : 78
+Group 2
+Student 6 : 42
+Student 7 : 65
+Student 11 : 61
+Student 12 : 58
+Group 3
+Student 1 : 10
+Student 2 : 23
+Student 5 : 15
+Student 8 : 18
+Student 14 : 9
