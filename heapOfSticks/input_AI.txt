@@ -1,0 +1,17 @@
+Player-1 is ready!!
+Player-2 is ready!!
+AI vs AI started....
+Initial number of sticks you want on the table initially (7-150)?
+> 14
+
+Player-1 is ready!!
+Player-2 is ready!!
+AI vs AI started....
+Initial number of sticks you want on the table initially (7-150)?
+> 21
+
+Player-1 is ready!!
+Player-2 is ready!!
+AI vs AI started....
+Initial number of sticks you want on the table initially (7-150)?
+> 53

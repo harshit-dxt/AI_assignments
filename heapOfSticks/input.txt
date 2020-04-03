@@ -1,0 +1,11 @@
+Welcome to the Game of NIM!
+Initial number of sticks you want on the table initially (7-150)?
+> 14
+
+Welcome to the Game of NIM!
+Initial number of sticks you want on the table initially (7-150)?
+> 21
+
+Welcome to the Game of NIM!
+Initial number of sticks you want on the table initially (7-150)?
+> 53

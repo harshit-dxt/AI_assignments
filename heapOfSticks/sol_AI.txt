@@ -1,0 +1,102 @@
+There are 14 sticks on the board.
+AI-1: 2
+There are 12 sticks on the board.
+AI-2: 2
+There are 10 sticks on the board.
+AI-1: 3
+There are 7 sticks on the board.
+AI-2: 2
+There are 5 sticks on the board.
+AI-1: 1
+There are 4 sticks on the board.
+AI-2: 1
+There are 3 sticks on the board.
+AI-1: 1
+There are 2 sticks on the board.
+AI-2: 1
+There are 1 sticks on the board.
+AI-1: 3
+AI-1 Wins....
+AI-2 Loses....
+
+
+There are 21 sticks on the board.
+AI-1: 1
+There are 20 sticks on the board.
+AI-2: 1
+There are 19 sticks on the board.
+AI-1: 1
+There are 18 sticks on the board.
+AI-2: 2
+There are 16 sticks on the board.
+AI-1: 3
+There are 13 sticks on the board.
+AI-2: 3
+There are 10 sticks on the board.
+AI-1: 2
+There are 8 sticks on the board.
+AI-2: 2
+There are 6 sticks on the board.
+AI-1: 3
+There are 3 sticks on the board.
+AI-2: 3
+AI-1 Loses....
+AI-2 Wins....
+
+
+There are 53 sticks on the board.
+AI-1: 3
+There are 50 sticks on the board.
+AI-2: 3
+There are 47 sticks on the board.
+AI-1: 2
+There are 45 sticks on the board.
+AI-2: 1
+There are 44 sticks on the board.
+AI-1: 2
+There are 42 sticks on the board.
+AI-2: 1
+There are 41 sticks on the board.
+AI-1: 2
+There are 39 sticks on the board.
+AI-2: 1
+There are 38 sticks on the board.
+AI-1: 2
+There are 36 sticks on the board.
+AI-2: 3
+There are 33 sticks on the board.
+AI-1: 2
+There are 31 sticks on the board.
+AI-2: 1
+There are 30 sticks on the board.
+AI-1: 2
+There are 28 sticks on the board.
+AI-2: 3
+There are 25 sticks on the board.
+AI-1: 3
+There are 22 sticks on the board.
+AI-2: 2
+There are 20 sticks on the board.
+AI-1: 2
+There are 18 sticks on the board.
+AI-2: 1
+There are 17 sticks on the board.
+AI-1: 1
+There are 16 sticks on the board.
+AI-2: 1
+There are 15 sticks on the board.
+AI-1: 2
+There are 13 sticks on the board.
+AI-2: 3
+There are 10 sticks on the board.
+AI-1: 1
+There are 9 sticks on the board.
+AI-2: 3
+There are 6 sticks on the board.
+AI-1: 1
+There are 5 sticks on the board.
+AI-2: 3
+There are 2 sticks on the board.
+AI-1: 2
+AI-1 Wins....
+AI-2 Loses....
